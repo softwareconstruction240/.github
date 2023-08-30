@@ -1,8 +1,8 @@
-![BYU logo](https://github.com/softwareconstruction240/softwareconstuction/blob/main/byuLogo.png?raw=true)
+![BYU logo](https://github.com/softwareconstruction240/softwareconstruction/blob/main/byuLogo.png?raw=true)
 
 # BYU **Advanced Software Construction** `cs240`
 
-![cover](https://github.com/softwareconstruction240/softwareconstuction/blob/main/softwareconstructioncover.jpg?raw=true)
+![cover](https://github.com/softwareconstruction240/softwareconstruction/blob/main/softwareconstructioncover.jpg?raw=true)
 
 ## Welcome
 
@@ -10,9 +10,9 @@ Advanced Software Construction provides you with the experience and skills neces
 
 The content for this course is represented by the following parts.
 
-- [Instruction](https://github.com/softwareconstruction240/softwareconstuction/blob/main/instruction/modules.md#readme)
-- [Spelling Corrector](https://github.com/softwareconstruction240/softwareconstuction/blob/main/spelling-corrector/spelling-corrector.md#readme)
-- [Chess](https://github.com/softwareconstruction240/softwareconstuction/blob/main/chess/chess.md#readme)
+- [Instruction](https://github.com/softwareconstruction240/softwareconstruction/blob/main/instruction/modules.md#readme)
+- [Spelling Corrector](https://github.com/softwareconstruction240/softwareconstruction/blob/main/spelling-corrector/spelling-corrector.md#readme)
+- [Chess](https://github.com/softwareconstruction240/softwareconstruction/blob/main/chess/chess.md#readme)
 - Assignments, quizzes, and tests submitted through Canvas
 
 ## Outcomes
