@@ -13,6 +13,7 @@ The content for this course is represented by the following parts.
 - [Instruction](https://github.com/softwareconstruction240/softwareconstruction/blob/main/instruction/modules.md#readme)
 - [Spelling Corrector](https://github.com/softwareconstruction240/softwareconstruction/blob/main/spelling-corrector/spelling-corrector.md#readme)
 - [Chess](https://github.com/softwareconstruction240/softwareconstruction/blob/main/chess/chess.md#readme)
+- [Pet Shop](https://github.com/softwareconstruction240/softwareconstruction/blob/main/petshop/petshop.md#readme)
 - Assignments, quizzes, and tests submitted through Canvas
 
 ## Outcomes
