@@ -10,6 +10,7 @@ Advanced Software Construction provides you with the experience and skills neces
 
 The content for this course is represented by the following parts.
 
+- [Syllabus](https://github.com/softwareconstruction240/softwareconstruction/blob/main/instruction/syllabus/syllabus.md#readme)
 - [Instruction](https://github.com/softwareconstruction240/softwareconstruction/blob/main/instruction/modules.md#readme)
 - [Chess](https://github.com/softwareconstruction240/softwareconstruction/blob/main/chess/chess.md#readme)
 - [Pet Shop](https://github.com/softwareconstruction240/softwareconstruction/blob/main/petshop/petshop.md#readme)
