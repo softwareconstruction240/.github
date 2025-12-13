@@ -14,15 +14,9 @@ The content for this course is represented by the following parts.
 - [Instruction](https://github.com/softwareconstruction240/softwareconstruction/blob/main/instruction/modules.md#readme)
 - [Chess](https://github.com/softwareconstruction240/softwareconstruction/blob/main/chess/chess.md#readme)
 - [Pet Shop](https://github.com/softwareconstruction240/softwareconstruction/blob/main/petshop/petshop.md#readme)
-- Assignments, quizzes, and tests submitted through Canvas
+- [📅 Schedule Dr. Wilkerson](https://github.com/softwareconstruction240/softwareconstruction/blob/main/schedule/winter2026-wilkerson.md)
+- [📅 Schedule Professor Jensen](https://github.com/softwareconstruction240/softwareconstruction/blob/main/schedule/winter2026-jensen.md)
  
-## Course Schedule
-
-Although assignment due dates are the same for all sections, the lecture schedule may vary by instructor.
-
-- [Schedule for Dr. Rodham's Sections](https://github.com/softwareconstruction240/softwareconstruction/blob/main/schedule/fall2025-rodham.md)
-- [Schedule for Professor Jensen's Sections](https://github.com/softwareconstruction240/softwareconstruction/blob/main/schedule/fall2025.md)
-
 ## Outcomes
 
 By the end of the course you should have experienced the following outcomes.
