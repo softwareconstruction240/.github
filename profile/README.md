@@ -14,8 +14,8 @@ The content for this course is represented by the following parts.
 - [Instruction](https://github.com/softwareconstruction240/softwareconstruction/blob/main/instruction/modules.md#readme)
 - [Chess](https://github.com/softwareconstruction240/softwareconstruction/blob/main/chess/chess.md#readme)
 - [Pet Shop](https://github.com/softwareconstruction240/softwareconstruction/blob/main/petshop/petshop.md#readme)
-- [📅 Schedule Dr. Wilkerson](https://github.com/softwareconstruction240/softwareconstruction/blob/main/schedule/winter2026-wilkerson.md)
-- [📅 Schedule Professor Jensen](https://github.com/softwareconstruction240/softwareconstruction/blob/main/schedule/winter2026-jensen.md)
+- [📅 Schedule: Dr. Rodham](https://github.com/softwareconstruction240/softwareconstruction/blob/main/schedule/winter2026-rodham.md)
+- [📅 Schedule: Dr. Wilkerson](https://github.com/softwareconstruction240/softwareconstruction/blob/main/schedule/winter2026-wilkerson.md)
  
 ## Outcomes
 
